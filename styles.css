@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 40px 0;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+th, td {
+    border: 4px solid #1d1c17;
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+}
+
+.automata {
+    background-color: #f99;
+}
+
+.maths {
+    background-color: #99f;
+}
+
+.economics {
+    background-color: #ff9;
+}
+
+.dsa {
+    background-color: #9ff;
+}
+
+.python {
+    background-color: #9f9;
+}
+
+.dsa-lab {
+    background-color: #f9c;
+}
+
+.python-lab {
+    background-color: #c9f;
+}
+
+/* #teachers th, #teachers */
